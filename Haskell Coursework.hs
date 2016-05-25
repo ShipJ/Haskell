@@ -1,5 +1,5 @@
 -- Jack Shipway | Haskell Coursework | 18/01/13 --
--- I integrated code from the website: "http://bonsaicode.wordpress.com/2010/01/08/programming-praxis-nim/" Because I found difficulty in implementing the exclusive or (xor) function in order to play against the computer. I understood what i needed to do but the code simply would  not function in the way that i wanted it to. I felt it was necessary to integrate a working example in my code because i would rather have a system that works fully and demonstrates certain skills rather than not be able to demonstrate anything at all. Furthermore, the general background Of the game NIM comes from the wikipedia page of NIM --
+-- I integrated code from the website: "http://bonsaicode.wordpress.com/2010/01/08/programming-praxis-nim/" Because I found difficulty in implementing the exclusive or (xor) function in order to play against the computer. The general background Of the game NIM comes from the wikipedia page of NIM --
 
 module TYPE_nim_TO_BEGIN where
 import System.IO
