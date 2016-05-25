@@ -1,4 +1,5 @@
 # Haskell
 Nim game in Haskell
 By Jack Shipway
-This is in 2016
+
+-- As part of a programming assignment whilst at university
